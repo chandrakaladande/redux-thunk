@@ -1,0 +1,90 @@
+{
+  "users": [
+    {
+      "fname": "naveen Kumar",
+      "gender": "Male",
+      "areasOfInterest": [
+        "CSS",
+        "JS"
+      ],
+      "state": "AP",
+      "id": "1"
+    },
+    {
+      "fname": "priya",
+      "gender": "Others",
+      "areasOfInterest": [
+        "HTML"
+      ],
+      "state": "TS",
+      "id": "3"
+    },
+    {
+      "fname": "Naveen Babu Bellam",
+      "gender": "Male",
+      "areasOfInterest": [
+        "REACTJS",
+        "JS"
+      ],
+      "state": "TS",
+      "id": "5"
+    },
+    {
+      "fname": "maheshwari",
+      "gender": "Female",
+      "areasOfInterest": [
+        "JS",
+        "REACTJS"
+      ],
+      "state": "TS",
+      "id": "6"
+    },
+    {
+      "fname": "kavya sri",
+      "gender": "Female",
+      "areasOfInterest": [
+        "CSS"
+      ],
+      "state": "TS",
+      "id": "7"
+    }
+  ],
+  "persons": [
+    {
+      "id": "ca0e",
+      "email": "yochan@gmail.com",
+      "username": "yochan",
+      "password": "yochu"
+    },
+    {
+      "id": "60ee",
+      "email": "kala@gmail.com",
+      "username": "nani",
+      "password": "nani"
+    },
+    {
+      "id": "38b4",
+      "email": "nani@gmail.com",
+      "username": "nani",
+      "password": "nani"
+    },
+    {
+      "id": "4c40",
+      "email": "sita@gmail.com",
+      "username": "sitha",
+      "password": "seetha"
+    },
+    {
+      "id": "017f",
+      "email": "kala@gmail.com",
+      "username": "kala",
+      "password": "kala"
+    },
+    {
+      "id": "c9d3",
+      "email": "githa@gmail.com",
+      "username": "githa",
+      "password": "githa"
+    }
+  ]
+}
